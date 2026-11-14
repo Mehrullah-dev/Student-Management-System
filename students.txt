@@ -1,0 +1,4 @@
+Azhar,26SW021,Israr Ahmed,Ghunio,Jacobabad,3.30
+Mehrullah,K26SW017,Sanaullah,Brohi,Sba,3.30
+Mujeeb,23,Azhar,Pathan,khp,2.50
+Waheed,k26sw026,Mahboob Ali,Khaki,KHairpur,3.50
